@@ -8,3 +8,4 @@ class Solution:
                 return [hashmap[complement], i]
 
             hashmap[num] = i
+        
