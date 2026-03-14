@@ -4,6 +4,7 @@ class Solution:
         if len(s) != len(t):
             return False
 
+        
         count = [0] * 26
 
         for i in range(len(s)):
