@@ -9,4 +9,3 @@ class Solution:
             max_sum = max(max_sum, window_sum)
         
         return max_sum / k
-        
