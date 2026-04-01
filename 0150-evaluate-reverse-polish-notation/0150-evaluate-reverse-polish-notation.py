@@ -9,7 +9,7 @@ class Solution:
 
                 if token == '+':
                     stack.append(a + b)
-                elif token == '-':  # ✅ FIXED
+                elif token == '-':  
                     stack.append(a - b)
                 elif token == '*':
                     stack.append(a * b)
